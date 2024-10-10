@@ -1,0 +1,3 @@
+C:/Users/Admin/Desctop/integral-calculator/cmake-build-debug/CMakeFiles/integral_calculator.dir
+C:/Users/Admin/Desctop/integral-calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desctop/integral-calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

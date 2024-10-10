@@ -1,3 +1,11 @@
 # ninja log v6
 20	356	7502429875001641	CMakeFiles/integral_calculator.dir/main.cpp.obj	66493d23b2c65323
 358	510	7502429878381877	integral_calculator.exe	2ed0804e57229cc6
+9	440	7502443060825175	CMakeFiles/integral_calculator.dir/main.cpp.obj	66493d23b2c65323
+441	605	7502443065145202	integral_calculator.exe	2ed0804e57229cc6
+10	649	7502473885785960	CMakeFiles/integral_calculator.dir/main.cpp.obj	66493d23b2c65323
+650	870	7502473892182869	integral_calculator.exe	2ed0804e57229cc6
+8	592	7502475248405055	CMakeFiles/integral_calculator.dir/main.cpp.obj	66493d23b2c65323
+593	738	7502475254255057	integral_calculator.exe	2ed0804e57229cc6
+11	680	7502475967687886	CMakeFiles/integral_calculator.dir/main.cpp.obj	66493d23b2c65323
+681	873	7502475974387880	integral_calculator.exe	2ed0804e57229cc6

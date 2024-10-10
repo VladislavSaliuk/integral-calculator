@@ -36,7 +36,7 @@ void* calculate_integral(void* arg) {
 }
 
 int main() {
-    double left, right;
+    double left, right, analytical_result;
     int num_threads, steps;
 
     // Вхідні дані від користувача
@@ -52,8 +52,8 @@ int main() {
     cout << "Enter the number of integration steps: ";
     cin >> steps;
 
-    // Аналітичне значення інтегралу (зафіксоване для прикладу)
-    double analytical_result = 5.87367; // Приклад аналітичного значення для певного інтервалу
+    cout << "Enter the analytical result of the integral: ";
+    cin >> analytical_result;
 
     // Масив потоків і даних для кожного потоку
     pthread_t threads[num_threads];
